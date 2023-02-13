@@ -1,0 +1,15 @@
+C:\Users\bbdnet2869\C#\IDreader\obj\Debug\net7.0\IDreader.csproj.AssemblyReference.cache
+C:\Users\bbdnet2869\C#\IDreader\obj\Debug\net7.0\IDreader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbdnet2869\C#\IDreader\obj\Debug\net7.0\IDreader.AssemblyInfoInputs.cache
+C:\Users\bbdnet2869\C#\IDreader\obj\Debug\net7.0\IDreader.AssemblyInfo.cs
+C:\Users\bbdnet2869\C#\IDreader\obj\Debug\net7.0\IDreader.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet2869\C#\IDreader\bin\Debug\net7.0\IDreader.exe
+C:\Users\bbdnet2869\C#\IDreader\bin\Debug\net7.0\IDreader.deps.json
+C:\Users\bbdnet2869\C#\IDreader\bin\Debug\net7.0\IDreader.runtimeconfig.json
+C:\Users\bbdnet2869\C#\IDreader\bin\Debug\net7.0\IDreader.dll
+C:\Users\bbdnet2869\C#\IDreader\bin\Debug\net7.0\IDreader.pdb
+C:\Users\bbdnet2869\C#\IDreader\obj\Debug\net7.0\IDreader.dll
+C:\Users\bbdnet2869\C#\IDreader\obj\Debug\net7.0\refint\IDreader.dll
+C:\Users\bbdnet2869\C#\IDreader\obj\Debug\net7.0\IDreader.pdb
+C:\Users\bbdnet2869\C#\IDreader\obj\Debug\net7.0\IDreader.genruntimeconfig.cache
+C:\Users\bbdnet2869\C#\IDreader\obj\Debug\net7.0\ref\IDreader.dll
