@@ -8,7 +8,7 @@ public class Formatter
         int year         = Formatter.fullYear(yearTwoDigit);
         int month        = int.Parse(idNumber.Substring(2, 2));
         int day          = int.Parse(idNumber.Substring(4, 2));
-        return new DateTime(year, month, day);
+        return new DateTime();
     }
 
     public static int fullYear(int year)
