@@ -1,3 +1,5 @@
+using System.Text.RegularExpressions;
+
 namespace ID;
 
 public class FileReader
@@ -13,12 +15,14 @@ public class FileReader
         return cleanIdNumbers(idNumbers);
     }
 
-    protected List<ID> cleanIdNumbers(String[] idNumbers)
+    protected List<ID> cleanIdNumbers(string[] idNumbers)
     {
-        List<ID> validIdNumbers = new List<ID> {};
+        List<ID> validIdNumbers = new List<ID>{};
         foreach (String idNumber in idNumbers)
-            if (idNumber.Length == 13)
+            if (idNumber.Length == 13 && Regex.IsMatch(idNumber, @"^[0-9]+$"))
                 validIdNumbers.Add(new ID(idNumber));
-        return validIdNumbers;
+            else
+                Console.WriteLine("Error: " + idNumber);
+        return validIdNumbers;     
     }
 }

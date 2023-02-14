@@ -36,7 +36,7 @@ public class ID
         return this.dateOfBirth.Day;
     }
 
-    private void setDateOfBirth()
+    public void setDateOfBirth()
     {
         this.dateOfBirth = Formatter.idNumberToDate(this.idNumber);
     }

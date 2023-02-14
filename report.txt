@@ -1,2 +1,0 @@
-Number of people born before 2010: 12
-Number of people born after 2010: 0
